@@ -35,7 +35,7 @@ export default class Companies extends Component
         <View style={styles.container}>
           <Button
             onPress={this.onPressGoBack.bind(this)}
-            title="GoBack"
+            title="Go Back"
             color="#841584"
           />
           <Text>{"\n\n"}</Text>

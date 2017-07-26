@@ -21,7 +21,7 @@ export default class Page2 extends Component
         <View style={styles.container}>
           <Button
             onPress={this.onPressGoHome.bind(this)}
-            title="GoHome"
+            title="Go Home"
             color="#841584"
           />
           <Text>{"\n\n"}</Text>
